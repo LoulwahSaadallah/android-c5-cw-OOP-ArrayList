@@ -1,0 +1,10 @@
+com/example/android/myapplication/Student.java
+ com.example.android.myapplication.Student
+com/example/android/myapplication/StudentAdapter.java
+ com.example.android.myapplication.StudentAdapter
+com/example/android/myapplication/BuildConfig.java
+ com.example.android.myapplication.BuildConfig
+com/example/android/myapplication/MainActivity.java
+ com.example.android.myapplication.MainActivity
+com/example/android/myapplication/SplashScreen.java
+ com.example.android.myapplication.SplashScreen
